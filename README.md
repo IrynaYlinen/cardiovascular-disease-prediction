@@ -1,4 +1,4 @@
-![Cardiovascular Disease Prediction](Cardio%20Thumbnail.png)
+![Cardiovascular Disease Prediction](thumbnail.png)
 
 # Cardiovascular Disease Prediction
 

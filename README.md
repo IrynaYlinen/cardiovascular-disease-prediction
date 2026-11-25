@@ -1,3 +1,5 @@
+![Cardiovascular Disease Prediction](Cardio%20Thumbnail.png)
+
 # Cardiovascular Disease Prediction
 
 ## Project Overview
